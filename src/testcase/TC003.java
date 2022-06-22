@@ -5,9 +5,12 @@ public class TC003 {
     // first line
 
     // second line
-    
+
 
     //forth line
 
-    // new changes
+
+    // just changed
+
+    // new just changed
 }
